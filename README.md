@@ -2,6 +2,7 @@
 **Your Academic Memory, Automated.**
 
 <img width="1348" height="597" alt="image" src="https://github.com/user-attachments/assets/50d31e6d-f1a5-4ef4-b8c0-7d2c9f18a70a" />
+<img width="1333" height="595" alt="image" src="https://github.com/user-attachments/assets/df804c90-68b7-46be-bfec-7d369b74b103" />
 
 
 Flux is a full-stack, AI-powered academic vault built for modern students. It eliminates the friction of manual grade tracking by using Google's Gemini Vision AI to instantly read, extract, and visualize data from uploaded report cards. 
@@ -23,20 +24,15 @@ More than just a storage vault, Flux acts as an intelligent academic strategistâ
 ## ðŸ“¸ Platform Glimpse
 
 ### The Overview Dashboard
-![Overview Dashboard](docs/images/dashboard_placeholder.png)
-*(Place a screenshot of the main dashboard with the master trend line chart)*
+<img width="1356" height="592" alt="image" src="https://github.com/user-attachments/assets/16e62dcf-3d0c-4ebe-8123-64cfef3cc9ec" />
 
 ### The Vault & Report Details
-![The Vault](docs/images/vault_placeholder.png)
-*(Place a screenshot of the Vault grid or the split-screen Subject Breakdown view)*
+<img width="1360" height="597" alt="image" src="https://github.com/user-attachments/assets/3ce2ce5a-4aa5-4b5e-87b0-b9e3abf8c745" />
 
-### AI Mentor Integration
-![AI Mentor](docs/images/mentor_placeholder.png)
-*(Place a screenshot of the AI Mentor chat window and Action Plan sidebar)*
 
 ### Seamless Upload OCR
-![Upload Modal](docs/images/upload_placeholder.png)
-*(Place a screenshot of the Glassmorphism upload modal with the scanning animation)*
+<img width="905" height="527" alt="image" src="https://github.com/user-attachments/assets/7cc7c4bc-f7f0-43c2-a682-9e85abf43c5f" />
+
 
 ---
 
