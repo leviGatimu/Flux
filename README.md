@@ -1,8 +1,9 @@
 # Flux.
 **Your Academic Memory, Automated.**
 
-![Flux Banner](docs/images/banner_placeholder.png)
-*(Place a wide, high-res screenshot of your Landing Page here)*
+![Uploading image.png…]()
+
+
 
 Flux is a full-stack, AI-powered academic vault built for modern students. It eliminates the friction of manual grade tracking by using Google's Gemini Vision AI to instantly read, extract, and visualize data from uploaded report cards. 
 
